@@ -1,5 +1,5 @@
 # scifi-shooter
-This is a multiplayer shooting game made in unity. It is based on Battle Royale strategy where different players join a lobby through internet (here we use free unity server providing upto 20 free users) and are spawned in the map and have a task to kill each other.
+This is a single player third person shooter game. The genre is based on scifi look and story revolves, around the player went to a sci fi city to destroy enemy robots. Here the bullets are laser guns.
 
 ## Screenshots
 
